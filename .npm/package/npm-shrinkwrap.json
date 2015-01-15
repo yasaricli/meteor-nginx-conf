@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "nginx-conf": {
-      "version": "0.2.3"
-    }
-  }
-}
