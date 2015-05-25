@@ -1,7 +1,7 @@
 Package.describe({
     name: 'yasaricli:nginx',
     summary: 'Meteor Package for interacting programmatically with an nginx configuration file.',
-    version: '0.0.1',
+    version: '0.0.3',
     git: 'https://github.com/yasaricli/meteor-nginx-conf.git'
 });
 
